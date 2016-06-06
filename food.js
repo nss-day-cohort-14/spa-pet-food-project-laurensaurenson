@@ -32,8 +32,8 @@ function writeCatInfo ( food ) {
       foodInfo.appendChild(foodBreedBlock);
       for (var y = 0; y < food.cat_brands[i].breeds[x].types.length; y++) {
         var types = document.createElement("div");
-        var type = document.createTextNode(food.cat_brands[i].breeds[x].types[y].type);
-        var amount = document.createTextNode(food.cat_brands[i].breeds[x].types[y].name);
+        var type = document.createTextNode(food.cat_brands[i].breeds[x].types[y].type + " ");
+        var amount = document.createTextNode(food.cat_brands[i].breeds[x].types[y].name + " ");
         var price = document.createTextNode(food.cat_brands[i].breeds[x].types[y].price);
         types.appendChild(type);
         types.appendChild(amount);
@@ -67,7 +67,7 @@ function writeDogInfo ( food ) {
       foodInfo.appendChild(foodTypeBlock);
       for (var y = 0; y < food.dog_brands[i].types[x].volumes.length; y++) {
         var volumes = document.createElement("div");
-        var amount = document.createTextNode(food.dog_brands[i].types[x].volumes[y].name);
+        var amount = document.createTextNode(food.dog_brands[i].types[x].volumes[y].name + " ");
         var price = document.createTextNode(food.dog_brands[i].types[x].volumes[y].price);
         volumes.appendChild(amount);
         volumes.appendChild(price);
