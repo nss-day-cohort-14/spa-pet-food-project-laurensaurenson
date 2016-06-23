@@ -1,0 +1,234 @@
+{
+  "cat_brands": [
+    {
+      "name": "Purina",
+      "breeds": [
+        {
+          "breed": "Siamese",
+          "types": [
+            {
+              "type": "Kitten",
+              "name": "20oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "name": "32oz",
+              "price": 26.99
+            },
+            {
+              "type": "Kitten",
+              "name": "64oz",
+              "price": 34.99
+            },
+            {
+              "type": "Elite",
+              "name": "20oz",
+              "price": 24.99
+            },
+            {
+              "type": "Elite",
+              "name": "40oz",
+              "price": 47.99
+            }
+          ]
+        },
+        {
+          "breed": "Bengal",
+          "types": [
+            {
+              "type": "Kitten",
+              "name": "20oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "name": "32oz",
+              "price": 26.99
+            },
+            {
+              "type": "Kitten",
+              "name": "64oz",
+              "price": 34.99
+            },
+            {
+              "type": "Elite",
+              "name": "20oz",
+              "price": 24.99
+            },
+            {
+              "type": "Elite",
+              "name": "40oz",
+              "price": 47.99
+            }
+          ]
+        },
+        {
+          "breed": "Showshoe",
+          "types": [
+            {
+              "type": "Kitten",
+              "name": "20oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "name": "32oz",
+              "price": 26.99
+            },
+            {
+              "type": "Kitten",
+              "name": "64oz",
+              "price": 34.99
+            },
+            {
+              "type": "Elite",
+              "name": "20oz",
+              "price": 24.99
+            },
+            {
+              "type": "Elite",
+              "name": "40oz",
+              "price": 47.99
+            }
+          ]
+        },
+        {
+          "breed": "Munchkin",
+          "types": [
+            {
+              "type": "Kitten",
+              "name": "20oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "name": "32oz",
+              "price": 26.99
+            },
+            {
+              "type": "Kitten",
+              "name": "64oz",
+              "price": 34.99
+            },
+            {
+              "type": "Elite",
+              "name": "20oz",
+              "price": 24.99
+            },
+            {
+              "type": "Elite",
+              "name": "40oz",
+              "price": 47.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Meow Meal",
+      "breeds": [
+        {
+          "breed": "Manx",
+          "types": [
+            {
+              "type": "Kitten",
+              "name": "24oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "name": "48oz",
+              "price": 26.99
+            },
+            {
+              "type": "Adult",
+              "name": "28oz",
+              "price": 22.99
+            },
+            {
+              "type": "Adult",
+              "name": "56oz",
+              "price": 40.99
+            }
+          ]
+        },
+        {
+          "breed": "Egyptian Mau",
+          "types": [
+            {
+              "type": "Kitten",
+              "name": "24oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "name": "48oz",
+              "price": 26.99
+            },
+            {
+              "type": "Adult",
+              "name": "28oz",
+              "price": 22.99
+            },
+            {
+              "type": "Adult",
+              "name": "56oz",
+              "price": 40.99
+            }
+          ]
+        },
+        {
+          "breed": "Himalayan",
+          "types": [
+            {
+              "type": "Kitten",
+              "name": "24oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "name": "48oz",
+              "price": 26.99
+            },
+            {
+              "type": "Adult",
+              "name": "28oz",
+              "price": 22.99
+            },
+            {
+              "type": "Adult",
+              "name": "56oz",
+              "price": 40.99
+            }
+          ]
+        },
+        {
+          "breed": "Rag Doll",
+          "types": [
+            {
+              "type": "Kitten",
+              "name": "24oz",
+              "price": 19.99
+            },
+            {
+              "type": "Kitten",
+              "name": "48oz",
+              "price": 26.99
+            },
+            {
+              "type": "Adult",
+              "name": "28oz",
+              "price": 22.99
+            },
+            {
+              "type": "Adult",
+              "name": "56oz",
+              "price": 40.99
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
